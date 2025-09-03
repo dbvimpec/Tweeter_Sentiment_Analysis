@@ -14,6 +14,8 @@ We will be using multiple Machine Learning models for analysis
 
 # Exploratory Data Analysis
 #### Brand Analysis
+![brand_category_distribution](https://github.com/user-attachments/assets/079f7160-f26e-412a-bbd7-044528e12a46)
+
 
 # Conclusion
 
