@@ -18,7 +18,7 @@ We will be using multiple Machine Learning models for analysis
 #### Sentiment Analysis
 ![overall_sentiment_distribution](https://github.com/user-attachments/assets/5e6aa554-c3f4-4342-b04f-66dad6b9b022)
 #### Tweet Counts
-<img width="1127" height="825" alt="sentiment_distribution_top_8" src="https://github.com/user-attachments/assets/ee48dbf4-2200-466b-96ee-c5699bd5b24a" />
+![sentiment_top_eight](https://github.com/user-attachments/assets/d799f1df-9848-44e3-ae5f-7a01a22a40e3)
 #### Brand Analysis
 ![sentiment_by_brand_percent](https://github.com/user-attachments/assets/0b8c9f10-7b42-4cdf-9fe6-a1824ab2b59a)
 ![Sentiment_brand category_percent](https://github.com/user-attachments/assets/7155b712-7dcc-4d2a-a570-7284e16817e5)
