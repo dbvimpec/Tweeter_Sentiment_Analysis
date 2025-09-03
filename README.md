@@ -15,6 +15,10 @@ We will be using multiple Machine Learning models for analysis
 # Exploratory Data Analysis
 #### Brand Analysis
 ![brand_category_distribution](https://github.com/user-attachments/assets/079f7160-f26e-412a-bbd7-044528e12a46)
+#### Sentiment Analysis
+![overall_sentiment_distribution](https://github.com/user-attachments/assets/5e6aa554-c3f4-4342-b04f-66dad6b9b022)
+#### Tweet Counts
+<img width="1127" height="825" alt="sentiment_distribution_top_8" src="https://github.com/user-attachments/assets/ee48dbf4-2200-466b-96ee-c5699bd5b24a" />
 
 
 # Conclusion
